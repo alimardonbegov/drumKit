@@ -15,31 +15,31 @@ footer {
   font-family: sans-serif;
 }
 
-.w {
+.KeyW {
   background-image: url("images/tom1.png");
 }
 
-.a {
+.KeyA {
   background-image: url("images/tom2.png");
 }
 
-.s {
+.KeyS {
   background-image: url("images/tom3.png");
 }
 
-.d {
+.KeyD {
   background-image: url("images/tom4.png");
 }
 
-.j {
+.KeyJ {
   background-image: url("images/snare.png");
 }
 
-.k {
+.KeyK {
   background-image: url("images/kick.png");
 }
 
-.l {
+.KeyL {
   background-image: url("images/crash.png");
 }
 
